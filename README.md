@@ -1,4 +1,4 @@
-# NYTNews
+# NYT-News
 
 NYTNews is a web application that fetches the top 20 most popular news articles from The New York Times using the NYT API.
 
