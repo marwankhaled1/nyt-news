@@ -35,5 +35,3 @@ items.innerHTML=out
 });
 
 
-
-
